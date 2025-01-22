@@ -1,4 +1,4 @@
-# Comparing NO₂ Air Pollution with Traffic and Population Density
+# Correlation of NO₂ Air Pollution with Traffic and Population Density
 
 This project compares NO₂ air pollution levels with traffic intensity (measured by the number of highways) and population density using QGIS and Python.
  ![Selected_Districts](img3.png)
@@ -36,14 +36,14 @@ Below are example visualizations generated from the analysis:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Comparing-NO2-Pollution.git
+   git clone https://github.com/Pulak-Deb/Correlation-of-Air-Pollution-with-Traffic-and-Population-Density.git
    ```
 
 2. **Run Analysis Scripts:**
    - Use Python scripts to analyze the data and generate results.
 
 3. **View in QGIS:**
-   - Open the provided QGIS project file to explore the spatial relationships visually.
+   - Open the provided shape and raster files in QGIS to explore the spatial relationships visually.
 
 ---
 
